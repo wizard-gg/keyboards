@@ -2,8 +2,7 @@
   "name": "JKB67",
   "vendorId": "0x4A4B",
   "productId": "0x3637",
-  "keycodes": ["qmk_lighting"],
-  "menus": ["qmk_backlight_rgblight"],
+  "lighting": "qmk_backlight_rgblight",
   "matrix": {"rows": 5, "cols": 15},
   "layouts": {
     "keymap": [
